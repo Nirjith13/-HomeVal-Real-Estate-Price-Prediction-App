@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Streamlit logs
+.streamlit/
+
+# IDE/editor configs
+.vscode/
+.idea/
